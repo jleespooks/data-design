@@ -5,10 +5,10 @@
 		<title>Title</title>
 	</head>
 	<body>
-		<a href="./Persona.php">Persona</a>
+		<a href="Persona.php">Persona</a>
 		<br/>
-		<a href="./User%20story.php">User Story</a>
-		<br>
+		<a href="User%20story.php">User Story</a>
+		<br/>
 		<a href="interaction%20flow.php">Interaction Flow</a>
 
 	</body>
