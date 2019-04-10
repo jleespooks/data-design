@@ -7,7 +7,7 @@
 		<body>
 		<h1>User Persona:</h1>
 			<div>
-				<img src="https://media0.giphy.com/media/26xBPLsxseSzX4GDS/giphy.gif"/>
+				<img src="https://media0.giphy.com/media/26xBPLsxseSzX4GDS/giphy.gif" alt="crazyplantlady"/>
 			</div>
 			<ul>
 				<li><b>Name:</b> Lily</li>
