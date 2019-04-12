@@ -34,16 +34,16 @@
 
 		<h2>Interaction Flow:</h2>
 		<ul>
-			<li>Open Pistils nursery</li>
-			<li>screen prompts user to sign in to profile</li>
-			<li>page is updated to say 'hello lily'</li>
-			<li>Search 'Hoya' in Pistils search engine</li>
-			<li>sends user to 'Hoya' page in website</li>
-			<li>user sees new page with pictures and access to cart</li>
-			<li>user clicks add one to cart</li>
-			<li>cart is updated to add 1 to cart</li>
-			<li>page is also updated with a 'view cart' button</li>
-			<li>when view cart button is pressed the user is taken to a checkout screen</li>
+			<li>Open Pistils nursery.</li>
+			<li>screen prompts user to sign in to profile.</li>
+			<li>page is updated to say 'hello lily'.</li>
+			<li>Search 'Hoya' in Pistils search engine.</li>
+			<li>sends user to 'Hoya' page in website.</li>
+			<li>user sees new page with pictures and access to cart.</li>
+			<li>user clicks add one to cart.</li>
+			<li>cart is updated to add 1 to cart.</li>
+			<li>page is also updated with a 'view cart' button.</li>
+			<li>when view cart button is pressed the user is taken to a checkout screen.</li>
 		</ul>
 		<div>
 			<a href="index.php">Home</a>
