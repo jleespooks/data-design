@@ -19,7 +19,7 @@
 
 			<p>
 			<b>Name of user & their role:</b>
-				Lily, professional student, loves indoor and outdoor plants. Wants to find a specific plant.
+				Lily, professional student, loves indoor and outdoor plants. Wants to find a Hoya plant for her new apartment.
 			</p>
 
 			<p>
