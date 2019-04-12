@@ -24,11 +24,11 @@
 
 			<p>
 			<b>Usage preconditions:</b>
-				Has to sign in to be able to search and find the specific plant she wants to purchase.
+				Has an account to be able to search and find the specific plant she wants to purchase.
 				</p>
 			<p>
 				<b>Usage postconditions</b>
-				Lily is able to find Hoya and place in cart
+				Lily is able to find Hoya and place in cart and complete purchase.
 			</p>
 
 
@@ -38,7 +38,7 @@
 			<li>screen prompts user to sign in to profile.</li>
 			<li>page is updated to say 'hello lily'.</li>
 			<li>Search 'Hoya' in Pistils search engine.</li>
-			<li>sends user to 'Hoya' page in website.</li>
+			<li>sends user to 'Hoya' page in Pistils.</li>
 			<li>user sees new page with pictures and access to cart.</li>
 			<li>user clicks add one to cart.</li>
 			<li>cart is updated to add 1 to cart.</li>
