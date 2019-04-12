@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h1>Story:</h1>
-		<p>As a power user,I shop Pistils Nursery because of the quality of the plants, great customer service and raving reviews.</p>
+		<p>As a power user, i need to be able to search and buy specific plant.</p>
 <div>
 	<a href="index.php">Home</a>
 </div>
