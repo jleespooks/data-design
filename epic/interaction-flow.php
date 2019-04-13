@@ -24,26 +24,22 @@
 
 			<p>
 			<b>Usage preconditions:</b>
-				Has an account to be able to search and find the specific plant she wants to purchase.
+				Lily has an account and is logged in to be able to search and find the specific plant she wants to purchase.
 				</p>
 			<p>
 				<b>Usage postconditions</b>
-				Lily is able to find Hoya and place in cart and complete purchase.
+				Lily is able to find Hoya and place in cart to purchase.
 			</p>
 
 
 		<h2>Interaction Flow:</h2>
 		<ul>
-			<li>Open Pistils nursery.</li>
-			<li>screen prompts user to sign in to profile.</li>
-			<li>page is updated to say 'hello lily'.</li>
 			<li>Search 'Hoya' in Pistils search engine.</li>
 			<li>sends user to 'Hoya' page in Pistils.</li>
 			<li>user sees new page with pictures and access to cart.</li>
 			<li>user clicks add one to cart.</li>
 			<li>cart is updated to add 1 to cart.</li>
 			<li>page is also updated with a 'view cart' button.</li>
-			<li>when view cart button is pressed the user is taken to a checkout screen.</li>
 		</ul>
 		<div>
 			<a href="index.php">Home</a>
