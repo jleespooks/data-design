@@ -28,7 +28,7 @@
 				</p>
 			<p>
 				<b>Usage postconditions</b>
-				Lily is able to find Hoya and place in cart to purchase.
+				Lily is able to find Hoya and place in cart purchase.
 			</p>
 
 
