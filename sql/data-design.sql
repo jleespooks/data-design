@@ -23,6 +23,7 @@ cartId binary(16) not null,
 cartProfileId binary(16) not null,
 cartProductId varchar(64) not null,
 index(cartId),
+index(productId),
 foreign key(cartProfileId) references profile(profileId),
 foreign key(cartProductId) references profile(productId)
 );
