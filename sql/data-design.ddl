@@ -1,7 +1,6 @@
 drop table if exists cart;
-drop table if exists profile;
 drop table if exists product;
-
+drop table if exists profile;
 
 create table product(
 	productId binary(16) not null,
@@ -10,6 +9,7 @@ create table product(
 	index(productName),
 	primary key(productId)
 );
+
 
 create table profile(
 	profileId binary(16) not null,
@@ -23,7 +23,7 @@ cartId binary(16) not null,
 cartProfileId binary(16) not null,
 cartProductId varchar(64) not null,
 index(cartId),
-index(productId),
+index(cartProductId),
 foreign key(cartProfileId) references profile(profileId),
 foreign key(cartProductId) references product(productId)
 );
