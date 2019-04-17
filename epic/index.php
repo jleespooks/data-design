@@ -6,10 +6,9 @@
 	</head>
 	<body>
 		<a href="persona.php">Persona</a>
-		<br/>
+		<br>
 		<a href="user-story.php">User Story</a>
-		<br/>
+		<br>
 		<a href="interaction-flow.php">Interaction Flow</a>
-
 	</body>
 </html>
