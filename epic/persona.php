@@ -15,7 +15,7 @@
 				<li><b>Gender:</b> Female</li>
 				<li><b>Age:</b> 27</li>
 				<li><b>Tech:</b> laptop/phone Hp pavilion 15/8th gen intel core 17 -windows 10/Samsung Galaxy 10</li>
-				<li><b>proficiency:</b> 8/uses her phone every single day for multiple tasks and playes on laptop for hours ata time</li>
+				<li><b>proficiency:</b> 8/uses her phone every single day for multiple tasks and plays on laptop for hours at a time</li>
 				<li><b>Attitude:</b> Likes great customer reviews, Likes high quality plants, Power user</li>
 				<li><b>Needs:</b> To be able to log in and read customer reviews on any specific plant</li>
 				<li><b>Dislikes:</b> doesn't like to buy plants not knowing if they are gonna be D.O.A</li>

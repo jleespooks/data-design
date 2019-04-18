@@ -45,8 +45,10 @@
 		<p>
 		<br>
 
-<img src="erd.jpg" width="750px" alt="erd>"
-
-
+	<img src="erd.png" width="750px" alt="erd>"
+		<br>
+			<div>
+			<a href="index.php">Home</a>
+			</div>
 	</body>
 </html>

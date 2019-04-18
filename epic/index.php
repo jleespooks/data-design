@@ -10,5 +10,8 @@
 		<a href="user-story.php">User Story</a>
 		<br>
 		<a href="interaction-flow.php">Interaction Flow</a>
+		<br>
+		<a href="conceptual-model.php">Conceptual-model</a>
+		<br>
 	</body>
 </html>
