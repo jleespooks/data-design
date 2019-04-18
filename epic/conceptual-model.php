@@ -28,24 +28,24 @@
 		<p>
 
 		<p>
-			<b>Added to</b>
+			<b>Cart</b>
 		<ul>
-			<li>cartId (foreign)</li>
-			<li>profileId (foreign)</li>
+			<li>cartId(primary)</li>
+			<li>cartProfileId(foreign)</li>
 		</ul>
 		<p>
 
 		<p>
-			<b>Cart</b>
+			<b>CartProduct</b>
 		<ul>
-			<li>cartId</li>
-			<li>cartProductId(foreign)</li>
-			<li>cartProductId(foreign)</li>
+			<li>cartProductId</li>
+			<li>cartProductProductId(foreign)</li>
+			<li>cartProductCartId(foreign)</li>
 		</ul>
 		<p>
 		<br>
 
-	<img src="erd.png" width="750px" alt="erd>"
+	<img src="my-erd.png" width="750px" alt="erd">
 		<br>
 			<div>
 			<a href="index.php">Home</a>
