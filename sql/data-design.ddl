@@ -6,6 +6,8 @@ drop table if exists product;
 create table product(
 	productId binary(16) not null,
 	productName varchar (128),
+	productContent varchar (128),
+	productPrice varchar (16),
 	primary key(productId),
 	index(productId)
 );
