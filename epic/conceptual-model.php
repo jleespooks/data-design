@@ -45,7 +45,7 @@
 		<p>
 		<br>
 
-	<img src="my-erd.png" width="750px" alt="erd">
+	<img src="finalerd.jpeg" width="750px" alt="erd">
 		<br>
 			<div>
 			<a href="index.php">Home</a>
