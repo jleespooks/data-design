@@ -38,7 +38,6 @@
 		<p>
 			<b>CartProduct</b>
 		<ul>
-			<li>cartProductId</li>
 			<li>cartProductProductId(foreign)</li>
 			<li>cartProductCartId(foreign)</li>
 		</ul>
