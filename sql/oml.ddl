@@ -8,7 +8,7 @@ INSERT INTO cart(cartId, cartProfileId)
 VALUES (UNHEX ('347a81a805bf4d778948daafa14acaa7'),(UNHEX('4de5ea30481b4a70997c63584c3c7ec9')));
 
 
---
+
 
 SELECT productId from product where productId = (UNHEX ('fc20fe77acbf4f74ae5af99eabe3e497'));
 
