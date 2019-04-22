@@ -29,9 +29,7 @@ create table profile(
 create table cart(
 	cartId binary(16) not null,
 	cartProfileId binary(16) not null,
-	cartProductId binary(16) not null,
 	index(cartId),
-	index(cartProductId),
 	primary key (cartId),
 	foreign key(cartProfileId) references profile(profileId)
 );
