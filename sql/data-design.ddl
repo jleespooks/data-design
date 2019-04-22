@@ -7,7 +7,7 @@ create table product(
 	productId binary(16) not null,
 	productName varchar (128),
 	productContent varchar (128),
-	productPrice varchar (16),
+	productPrice binary (16),
 	index(productId),
 	primary key(productId)
 
