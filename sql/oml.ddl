@@ -8,15 +8,16 @@ INSERT INTO cart(cartId, cartProfileId)
 VALUES (UNHEX ('347a81a805bf4d778948daafa14acaa7'),(UNHEX('4de5ea30481b4a70997c63584c3c7ec9')));
 
 
--- Insert statement on table with foreign keys
+--
 
-INSERT INTO cartProduct(cartProductProductId, cartProductCartId)
-VALUES (UNHEX('fc20fe77acbf4f74ae5af99eabe3e497'),(UNHEX('347a81a805bf4d778948daafa14acaa7')));
+SELECT productId from product where productId = (UNHEX ('fc20fe77acbf4f74ae5af99eabe3e497'));
 
  -- Creating Update statement
 
-  update profile set profileEmail = 'Email sent' where profileId = 'no email';
+UPDATE profile set profileEmail = 'Email sent' WHERE profileId = 'no email';
 
 -- Creating Delete statement
 
- delete from cartProduct where cartProductProductId = UNHEX('fc20fe77acbf4f74ae5af99eabe3e497');
+DELETE FROM cartProduct WHERE cartProductProductId = UNHEX('fc20fe77acbf4f74ae5af99eabe3e497');
+
+-- SELECT COUNT (tweetProfileId) from `like` WHERE tweetID UNHEX('6ecea4a2d17a41da89ff488482f9358b');
