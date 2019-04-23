@@ -28,5 +28,4 @@ INNER JOIN cart
 ON cart.cartProfileId = profile.profileId
 WHERE profileId = UNHEX('4de5ea30481b4a70997c63584c3c7ec9');
 
-
 -- SELECT COUNT (tweetProfileId) from `like` WHERE tweetID UNHEX('6ecea4a2d17a41da89ff488482f9358b');
