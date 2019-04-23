@@ -22,10 +22,10 @@ DELETE FROM cartProduct WHERE cartProductProductId = UNHEX('fc20fe77acbf4f74ae5a
 
 -- join statement
 
-select cart.cartId, profile.profileName
-from profile
-inner join cart
-on cart.cartProfileId = profile.profileId
+SELECT cart.cartId, profile.profileName
+FROM profile
+INNER JOIN cart
+ON cart.cartProfileId = profile.profileId
 WHERE profileId = UNHEX('4de5ea30481b4a70997c63584c3c7ec9');
 
 
